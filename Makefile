@@ -30,6 +30,8 @@ OBJ_HAL += stm32f4xx_hal_dma
 OBJ_HAL += stm32f4xx_hal_rcc
 OBJ_HAL += stm32f4xx_hal_tim
 OBJ_HAL += stm32f4xx_hal_tim_ex
+OBJ_HAL += stm32f4xx_hal_uart
+OBJ_HAL += stm32f4xx_hal_usart
 
 ## BSP
 DISCOVERY_ROOT=$(STM32CUBE_ROOT)/Drivers/BSP/STM32F4-Discovery/

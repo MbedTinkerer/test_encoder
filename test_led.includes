@@ -3,3 +3,4 @@
 ../STM32Cube_FW_F4_V1.1.0/Drivers/STM32F4xx_HAL_Driver/Src/
 ../STM32Cube_FW_F4_V1.1.0/Drivers/BSP/STM32F4-Discovery/
 .
+../STM32Cube_FW_F4_V1.1.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include/
