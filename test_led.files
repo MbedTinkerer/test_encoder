@@ -6,3 +6,11 @@ STM32F429ZI_FLASH.ld
 syscalls.c
 stm32f4xx_it.c
 
+encoder.h
+encoder.c
+motor.h
+motor.c
+uart.h
+uart.c
+init.h
+init.c

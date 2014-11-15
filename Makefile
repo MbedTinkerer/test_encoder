@@ -13,7 +13,7 @@ CFLAGS = -mcpu=cortex-m4 -mthumb -DSTM32F407xx -nostartfiles -std=c99 $(addprefi
 CFLAGS += -Wall -g
 LDFLAGS = -TSTM32F407VG_FLASH.ld
 
-OBJ = main startup_stm32f4xx system_stm32f4xx syscalls stm32f4xx_it
+OBJ = main startup_stm32f4xx system_stm32f4xx syscalls stm32f4xx_it encoder motor init uart 
 
 TARGET=test
 
